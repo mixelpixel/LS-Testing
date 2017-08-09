@@ -31,6 +31,11 @@ Topics:
     $  npm test advanced-javascript/tests
         26 passing (65ms)
     ```
+  3. Node Extra Credit tests:
+    ```console
+    $  npm test node-extra-credit/tests/
+        6 passing (27ms)
+    ```
 
 - Get started in the `basic-javascript` directory then move onto `advanced-javascript` when you're done. - OKAY √
 
